@@ -1,0 +1,41 @@
+body{
+    padding: 10% 25%;
+    background-image: url(../img/Fondo7.jpg);
+}
+
+.fondo{
+    background-image: url(../img/Fondo6.jpg);
+    border: 2px solid #1B4FC1 ;
+}
+
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form-group{
+    padding: 0 10%;
+    color: white;
+}
+
+.form-check{
+    margin-left: 10%;
+    font-size: 18px;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#forgot{
+    margin-left: 44%;
+}
+
+#button{
+    width: 40%;
+    margin-left: 30%;
+}
+
+#back{
+    width: 10%;
+}

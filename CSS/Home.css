@@ -1,0 +1,166 @@
+#titulo1{
+    letter-spacing: 5pt;
+    font-weight: 400;
+    color: rgb(44, 44, 44);
+}
+
+#titulo2{
+    font-size: 125px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: black;
+}
+
+#redes{
+    width: 35px;
+    margin-top: 30%;
+    padding: 0 25%;
+}
+
+#menu{
+    border: 1px solid black;
+}
+
+/*----------------------------------------------------ENCABEZADO----------------------------------------------------------------------*/
+
+.featured{
+    letter-spacing: 5pt;
+}
+
+.titulo3{
+    margin-top: 3%;
+    width: 30%;
+    margin-left: 22%;
+}
+
+.cuadro1{
+    margin-left: 22%;
+    border: 1px solid black;
+    width: 57%;
+}
+
+img{
+    width: 100%;
+}
+
+.texto{
+    margin: 2% 2%;
+}
+
+#enteremail{
+    margin-top: -5%;
+    margin-left: 60%;
+}
+
+#suscribe{
+    margin-left: 78%;
+    margin-top: -4%;
+    width: 10%;
+}
+
+#Email{
+    width: 160%;
+}
+
+.never{
+    margin-left: 15%;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.Items{
+    margin: 3% 8%;
+    border: 1px solid black;
+    width: 40%;
+}
+
+#png1{
+    width: 32%;
+}
+
+.info{
+    margin-left: 40%;
+    margin-top: -37%;
+}
+
+#fecha{
+    font-size: 75%;
+}   
+
+.Pizza{
+    margin: 3% 8%;
+    margin-left: 50%;
+    margin-top: -322px;
+    border: 1px solid black;
+    width: 45%;
+    height: 272px;
+}
+
+#png2{
+    width: 37%;
+    height: 270px;
+}
+
+.info2{
+    margin-left: 45%;
+    margin-top: -33%;
+}
+
+#parrafo{
+    margin-top: 17px;
+}
+
+hr{
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+/*---------------------------------------------------PIE DE PAGINA----------------------------------------------------------------------*/
+
+#tituloencabezado1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: black;
+}
+
+.form-group{
+    margin: 0 30%;
+}
+
+#Name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    color: black;
+}
+
+#First{
+    width: 46%;
+}
+
+#lastname > #Last{
+    width: 100%;
+}
+
+#lastname{
+    margin-left: 49%;
+    margin-top: -86px;
+}
+
+.Message{
+    margin: 0 30%;
+    width: 40%;
+}
+
+#Button{
+    margin: 0 43%;
+    width: 15%;
+}
